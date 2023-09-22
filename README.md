@@ -3,10 +3,10 @@ I'm Rebeka Palmeira, a passionate software developer and tech enthusiast.
 #
 <div>
   <a href="https://github.com/kaneswarann/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kaneswarann&show_icons=true&theme=omni&include_all_commits=true&count_private=true" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=kaneswarann&show_icons=true&theme=omni&include_all_commits=true&count_private=true" />
   </a>
   <a href="https://github.com/kaneswarann/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaneswarann&layout=compact&langs_count=8&card_width=320&theme=omni&include_all_commits=true&count_private=false" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaneswarann&layout=compact&langs_count=8&card_width=320&theme=omni&include_all_commits=true&count_private=false" />
   </a>
 </div>
 

@@ -1,5 +1,5 @@
 # 👋 Hi there 
-I'm Rebeka Palmeira, a passionate software developer and tech enthusiast.
+I'm Rebeka Palmeira, a passionate front-end developer and tech enthusiast.
 #
 <div>
   <a href="https://github.com/kaneswarann/github-readme-stats">

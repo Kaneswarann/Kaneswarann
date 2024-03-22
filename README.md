@@ -11,9 +11,5 @@ Apaixonada por criar experiências de usuário interativas e intuitivas, sou des
 
 ###
 
-
-
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rebeka-palmeira) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rebekamaisa@gmail.com) 
-
-<img align="right" alt="Reb" src="https://cdn.discordapp.com/attachments/221682698199105547/1154690174417125396/picasion.com_93993aadb692b94f1a1da8068463ebd2.gif?ex=66067686&is=65f40186&hm=c2471add335151e233c00fc65fce1729f3c0f5f0098aad99ae94b1b9eb7383b7&" />

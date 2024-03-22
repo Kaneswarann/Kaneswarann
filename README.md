@@ -6,6 +6,7 @@ Com mais de 7 anos de experiência na área, tenho a oportunidade de trabalhar e
 Apaixonada por criar experiências de usuário interativas e intuitivas, sou desenvolvedora web front-end, combinando frameworks modernos com padrões de design de melhores práticas. Com quase 7 anos dedicados a aprimorar minhas habilidades em tecnologias front-end, liderei equipes, desenvolvi diretrizes de sistemas e mantive os mais altos padrões de desempenho web e SEO.
 
 #💻 Tech Stack
+
 <img align="right" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
 <img align="right" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
 <img align="right" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 

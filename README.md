@@ -1,15 +1,12 @@
 # 👋 Hi there 
-I'm Rebeka Palmeira, a passionate front-end developer and tech enthusiast.
-#
-<div>
-  <a href="https://github.com/kaneswarann/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=kaneswarann&show_icons=true&theme=omni&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/kaneswarann/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaneswarann&layout=compact&langs_count=8&card_width=320&theme=omni&include_all_commits=true&count_private=false" />
-  </a>
-</div>
+Sou Rebeka Palmeira, uma desenvolvedora apaixonada por software e entusiasta de tecnologia. Atualmente trabalho como Desenvolvedora Front-end autônoma.
+Com mais de 7 anos de experiência na área, tenho a oportunidade de trabalhar em vários projetos interessantes e explorar diferentes tecnologias.
 
+# 🚀 Expertise
+Apaixonada por criar experiências de usuário interativas e intuitivas, sou desenvolvedora web front-end, combinando frameworks modernos com padrões de design de melhores práticas. Com quase 7 anos dedicados a aprimorar minhas habilidades em tecnologias front-end, liderei equipes, desenvolvi diretrizes de sistemas e mantive os mais altos padrões de desempenho web e SEO.
+
+#💻 Tech Stack
+<img align="right" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img align="right" alt="Typescript" src="[https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)" /> <img align="right" alt="HTML" src="[[https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)" /> 
 ###
 
 <img align="right" alt="Reb" src="https://media.discordapp.net/attachments/221682698199105547/1154608411099533403/picasion.com_a0d76226afdd8445789a2f89186c23eb.gif" />
